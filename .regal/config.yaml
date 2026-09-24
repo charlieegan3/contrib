@@ -1,0 +1,8 @@
+ignore:
+  # imported subprojects are kept as-is from their source repos and are
+  # not linted as part of this repo's own style checks
+  files:
+  - "academy-samples/**"
+  - "graphql-apollo-example/**"
+  - "opa-apigee-demo/**"
+  - "opa-aws-cloudformation-hook/**"
